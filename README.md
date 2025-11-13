@@ -1,5 +1,5 @@
 # Operating Systems Journal
-This assessment demonstrates Linux Server Configuration &amp; Security Hardening - CMPN202 Operating Systems Coursework
+This journal demonstrates Linux Server Configuration &amp; Security Hardening - CMPN202 Operating Systems Coursework
 
 - [Week 1: System Planning and Diustribution Selection.]
 - [Week 2: Security Panning and Testing Methodology.]
