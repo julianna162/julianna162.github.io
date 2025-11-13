@@ -1,7 +1,7 @@
 # Operating Systems Journal
 This journal demonstrates Linux Server Configuration &amp; Security Hardening - CMPN202 Operating Systems Coursework
 
-- [Week 1: System Planning and Diustribution Selection.]
+- [Week 1: System Planning and Diustribution Selection.](OS_Journal/Week_1)
 - [Week 2: Security Panning and Testing Methodology.]
 - [Week 3: Application Selection for Performance Testing.]
 - [Week 4: Initial Sytem Configuration & Securtiy Implementation]
